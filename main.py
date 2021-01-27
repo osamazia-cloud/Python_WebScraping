@@ -1,6 +1,6 @@
 import requests
 
-x = requests.get('https://www.edureka.co/blog/web-scraping-with-python/')
+x = requests.get('https://webscraper.io/test-sites')
 
 res = x.text
 
