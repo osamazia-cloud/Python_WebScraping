@@ -20,7 +20,6 @@ for line in res:
             file.write(character)
 
 file.close()
-print ('Hello')
 file = open("copy.txt", "r")
 lines = file.readlines()
 file.close()
